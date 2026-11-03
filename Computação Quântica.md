@@ -1,0 +1,1 @@
+Ao contrário do que pensam, o computador quântico não é um supercomputador comum/clássico e sim um outro tipo de
